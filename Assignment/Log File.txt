@@ -1,0 +1,4 @@
+Elevator Log:
+2018-05-14 11:47:42.385	| 	Elevator ready for requests.
+2018-05-14 11:47:42.618	| 	Elevator waiting on Level G for requests.
+2018-05-14 11:47:44.005	| 	Elevator is shutting down.
